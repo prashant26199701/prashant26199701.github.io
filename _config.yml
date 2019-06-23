@@ -1,4 +1,4 @@
-theme: jekyll-hacker
+theme: jekyll-time-machine
 gem "github-pages", group: :jekyll_plugins
 title: [itaws]
 description: [A short description of your site's purpose]
