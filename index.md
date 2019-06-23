@@ -4,7 +4,7 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/prashant26199701) 
 
-[![Linked IN ](https://img.shields.io/badge/LinkedIN-Connect-1abc9c.svg)](https://www.linkedin.com/in/prashant-badal-aa5b91156/)
+[![Linked IN ](https://img.shields.io/badge/LinkedIN-Connect%20With%20Me-1abc9c.svg)](https://www.linkedin.com/in/prashant-badal-aa5b91156/)
 
 
 # My open-source Projects 
