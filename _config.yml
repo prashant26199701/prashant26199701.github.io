@@ -1,2 +1,4 @@
 theme: jekyll-theme-dinky
 gem "github-pages", group: :jekyll_plugins
+title: [itaws]
+description: [A short description of your site's purpose]
