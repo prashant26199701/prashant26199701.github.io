@@ -10,6 +10,8 @@
 # My open-source Projects 
 
 ## [Sultanpur Hub](https://github.com/prashant26199701/sultanpurhub)
+## [PSQuiz](https://github.com/prashant26199701/PSQuiz)
+
 
 
 
