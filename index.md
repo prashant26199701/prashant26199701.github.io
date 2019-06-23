@@ -1,5 +1,4 @@
 ## Welcome to GitHub PagesLNLKN
-fjlfkdfd;f
 
 [![My Resume](https://img.shields.io/badge/PRASHANT%20BADAL-Resume-brightgreen.svg)](https://prashant26199701.github.io/prashant.pdf)  
 
