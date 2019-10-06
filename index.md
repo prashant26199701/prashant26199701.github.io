@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[![My Resume](https://img.shields.io/badge/PRASHANT%20BADAL-Resume-brightgreen.svg)](https://prashant26199701.github.io/prashant.pdf) 
+[![My Resume](https://img.shields.io/badge/PRASHANT%20BADAL-Resume-brightgreen.svg)](https://prashant26199701.github.io/prashantres.pdf) 
 
 [![follow me](https://img.shields.io/github/followers/prashant26199701.svg?label=Follow%20Me&style=social)](https://github.com/prashant26199701/)
 
